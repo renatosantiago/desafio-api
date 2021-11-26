@@ -107,7 +107,7 @@ retorna uma pessoa com o id passado GET
     
 retorna todos as pessoas GET
 
-    localhost:8080/filmes
+    localhost:8080/pessoas
     
 corpo resposta das requisições
 
