@@ -40,7 +40,7 @@ corpo json para cadastrar usuarios método POST
 # Atualizar Usuario
 passar o ID do usuário a ser atualizado no final da url método PUT
 
-    localhost:8080/oauth/token/2    
+    localhost:8080/usuarios/2    
     
 corpo json
 
